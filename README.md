@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [O Que é um Repositório?](https://github.com/Devsgeeknerd/cla-o-que-rep-rep-git-fun-bas) &#128679;
+* [x] [O Que é um Repositório?](https://github.com/Devsgeeknerd/cla-o-que-rep-rep-git-fun-bas)
 * [ ] [Criando Repositórios.](https://github.com/Devsgeeknerd/cla-cri-rep-rep-git-fun-bas) &#128679;
 
 <!-- Informações -->
